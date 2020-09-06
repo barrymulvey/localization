@@ -36,7 +36,7 @@ $ mkdir -p catkin_ws/src && cd catkin_ws
 ```
 Clone the driver:
 ```
-$ git clone https://github.com/mulbarry/localization.git src/localization
+$ git clone https://github.com/barrymulvey/localization.git src/localization
 ```
 Install dependencies:
 ```
